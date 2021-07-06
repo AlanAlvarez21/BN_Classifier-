@@ -1,0 +1,35 @@
+[
+    {
+    "text": "Hola quiero aprender strings",
+    "category": "software"
+},
+{
+    "text": "Tuplas",
+    "category": "Python"
+},
+{
+    "text": "Concatenar Strings",
+    "category": "python"
+},{
+    "text": "Variables",
+    "category": "software"
+},
+{
+    "text": "Diccionarios",
+    "category": "python"
+},
+{
+    "text": "mi codigo no compila",
+    "category": "python"
+},
+{
+    "text": "ForEach en Javascript",
+    "category": "Javascript"
+},
+{
+    "text": "Arreglos y listas",
+    "category": "Javascript"
+}
+
+
+]
